@@ -19,5 +19,7 @@ function GetToken(){
 
 }
 function Sometthing(){
-    
+
 }
+
+function init(){}

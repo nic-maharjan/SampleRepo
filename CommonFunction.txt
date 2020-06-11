@@ -2,3 +2,8 @@ function GetApi(){}
 
 function Authenticate(){}
 
+function init(){
+
+    //u2 
+}
+

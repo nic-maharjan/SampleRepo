@@ -8,6 +8,10 @@ function init(){
 }
 
 function FeatureDo(){
+
+}
+
+function Feature12(){
     
 }
 

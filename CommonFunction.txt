@@ -7,3 +7,7 @@ function init(){
     //u2 
 }
 
+function FeatureDo(){
+    
+}
+
